@@ -37,10 +37,12 @@ I'm a Senior Full Stack Developer and Backend AI Engineer based in Pakistan, cur
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ---
-📊 GitHub Stats
-![Ayezan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayezan-riaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayezan-riaz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayezan-riaz&theme=tokyonight&hide_border=true)
+
+## 📈 Currently Working On
+
+- 🔨 Building AI-powered backend systems
+- 🌱 Learning LangChain, RAG & Vector Databases
+- 💼 Open to freelance & full-time opportunities
 ---
 🚀 Featured Projects
 Project	Description	Tech
